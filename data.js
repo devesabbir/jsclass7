@@ -5,11 +5,11 @@ const studentData = [
       Bn   : 57,
       En   : 77,
       Math   : 77,
-      S   : 77,
+      S     : 77,
       SS   : 77,
       Reli   : 77,
     }, {
-        Name : 'Sabbir',
+        Name : 'Labib',
         Roll : 04,
         Bn   : 57,
         En   : 77,
@@ -18,7 +18,7 @@ const studentData = [
         SS   : 77,
         Reli   : 77,
       }, {
-        Name : 'Sabbir',
+        Name : 'Foisal',
         Roll : 04,
         Bn   : 57,
         En   : 77,
@@ -27,7 +27,7 @@ const studentData = [
         SS   : 77,
         Reli   : 77,
       }, {
-        Name : 'Sabbir',
+        Name : 'Faruk',
         Roll : 04,
         Bn   : 57,
         En   : 77,
@@ -36,7 +36,17 @@ const studentData = [
         SS   : 77,
         Reli   : 77,
       }, {
-        Name : 'Sabbir',
+        Name : 'Somrat',
+        Roll : 04,
+        Bn   : 57,
+        En   : 77,
+        Math   : 77,
+        S   : 77,
+        SS   : 77,
+        Reli   : 77,
+      }, 
+      {
+        Name : 'Lemon',
         Roll : 04,
         Bn   : 57,
         En   : 77,
@@ -45,16 +55,7 @@ const studentData = [
         SS   : 77,
         Reli   : 77,
       }, {
-        Name : 'Sabbir',
-        Roll : 04,
-        Bn   : 57,
-        En   : 77,
-        Math   : 77,
-        S   : 77,
-        SS   : 77,
-        Reli   : 77,
-      }, {
-        Name : 'Sabbir',
+        Name : 'Puja',
         Roll : 04,
         Bn   : 57,
         En   : 77,
@@ -71,5 +72,5 @@ const studentData = [
         S   : 77,
         SS   : 77,
         Reli   : 77,
-      },
+      }
 ]
