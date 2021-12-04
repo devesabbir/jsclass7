@@ -15,7 +15,7 @@ const studentData = [
         En   : 77,
         Math   : 77,
         S   : 77,
-        SS   : 77,
+        SS   : 20,
         Reli   : 77,
       }, {
         Name : 'Foisal',
